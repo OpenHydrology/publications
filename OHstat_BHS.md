@@ -1,7 +1,6 @@
 # Open Hydrology Auto Statistical
 
 NB each sentence on a separate line makes life a lot easier for differences.
-This works even better with LaTeX as it wraps them up into the same paragraph.
 
 
 ## Introduction
