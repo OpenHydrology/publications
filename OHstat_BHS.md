@@ -14,10 +14,12 @@ By adopting a free open source model OH encourages the sharing of ideas, a test 
 
 ## Para 2: What?
 
-Is OH?
-Are our goals?
-Currently available?
-
+The OH project is a collection of like-minded academics and consultants that are collaborating to develop new and innovative open source software for hydrologists.
+OH plan to develop a comprehensive range of hydrological programmes that cover the latest published guidance on hydrological modelling and statistical analysis.
+To date, OH has already released the *floodestimation* python library which provides a python implementation of the very latest statistical flood estimation methods including enhanced single sites and transferring locally gauged data.
+The *floodestimation* library has been packaged into *Auto Statistical* to automatically create client ready flood frequency reports by simply right clicking on a catchment descriptor file.
+The team is currently working on a graphical user interface to assist use of the *floodestimation* library when assessing more complex sites.
+The team has plans to develop rainfall-runoff, low flow analysis and hydraulic modelling software.
 
 ## Para 3: Using
 
