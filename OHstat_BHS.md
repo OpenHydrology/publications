@@ -17,10 +17,11 @@ By adopting a free open source model OH encourages the sharing of ideas, a test 
 
 The OH project is a collection of like-minded academics and consultants that are collaborating to develop new and innovative open source software for hydrologists.
 OH plan to develop a comprehensive range of hydrological programmes that cover the latest published guidance on hydrological modelling and statistical analysis.
-To date, OH has already released the *floodestimation* python library which provides a python implementation of the very latest statistical flood estimation methods including enhanced single sites and transferring locally gauged data.
-The *floodestimation* library has been packaged into *Auto Statistical* to automatically create client ready flood frequency reports by simply right clicking on a catchment descriptor file.
-The team is currently working on a graphical user interface to assist use of the *floodestimation* library when assessing more complex sites.
-The team has plans to develop rainfall-runoff, low flow analysis and hydraulic modelling software.
+To date, OH has already released the *floodestimation* python library which provides a python implementation of the very latest statistical flood estimation methods including pooled analysis, enhanced single sites and transferring local gauged data.
+The *floodestimation* library has been packaged into *Auto Statistical* to automatically create frequency reports by simply right clicking on a catchment descriptor file, making the process of generating a default flood frequency curve a matter of seconds rather than minutes and without the hassle of a software licence charge.
+The *floodestimation* library also seamlessly manages downloading the latest *HiFlows* dataset and allows the manual editing or addition of flow records.
+Currently the OH team is working on a graphical user interface to assist use of the *floodestimation* library when assessing more complex sites.
+The team has a broad range of development plans including rainfall-runoff, low flow analysis and hydraulic modelling software, however beauty of the OH project is that it provides a means for hydrologists to become developers and create the software they need to solve the challenges they face.
 
 ## Para 3: Using
 
