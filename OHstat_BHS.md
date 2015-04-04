@@ -6,9 +6,10 @@ NB each sentence on a separate line makes life a lot easier for differences.
 ## Para 1: Introduction
 
 The *Flood Estimation Handbook* (Institute of Hydrology, 1999) together with subsequent updates represents best practice for flood estimation in the UK (Environment Agency, 2012).
-The guidance, which built on the *Flood Studies Report* (Institute of Hydrology, 1975), provides a broad range of robust methods for rainfall-runoff modelling and statistical flood flow assessments.
+The guidance, which is built on the *Flood Studies Report* (Institute of Hydrology, 1975), provides a broad range of robust methods for rainfall-runoff modelling and statistical flood flow assessments.
 To implement the guidance hydrologists have relied on ad-hoc in house spreadsheets and commercial software that have struggled to kept pace with current scientific literature.
-Open Hydrology (OH) provides a rapid means for academics to freely disseminate their innovations with practitioners in industry.
+Many professional hydrologists report that neither approach has provided the  modern software they need to innovate or work efficiently.
+The recently founded Open Hydrology (OH) project provides a rapid means for developers and academics to freely distribute their work to practitioners.
 By adopting a free open source model OH encourages the sharing of ideas, a test bed for the latest scientific methods and the continued improvement of the user experience.
 
 
