@@ -1,6 +1,4 @@
-# Open Hydrology Auto Statistical
-
-NB each sentence on a separate line makes life a lot easier for differences.
+# Open Hydrology launches open-source flood estimation software
 
 
 ## Para 1: Introduction
