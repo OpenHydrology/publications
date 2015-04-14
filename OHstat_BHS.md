@@ -3,13 +3,14 @@
 
 ## Background [100 W]
 
-The Flood Estimation Handbook (Reed et al., 1999) together with subsequent updates (e.g. Kjeldsen et al., 2008; Kjeldsen & Jones, 2009; Kjeldsen et al., 2014) represent best practice for flood estimation in the UK (e.g. Environment Agency, 2012).
-The guidance within these documents, provide a broad range of methods for estimating the magnitude of flood events of a given magnitude.
-These methods fall into two groups; rainfall-runoff modelling and statistical assessments.
-Hydrologists often rely on a mix of ad-hoc spreadsheets and commercial software which struggle to keep pace with current scientific literature and generate output in varied formats, causing problems for calculation checks.
-This awkward mix of tools largely results in an inefficient work-flow working with out of date methods.
-The recently founded Open Hydrology (OH) project provides a framework for developers and academics to distribute new methods to practitioners.
-By adopting an open source model OH encourages the sharing of ideas, a test bed for the latest scientific methods and the continued improvement of the user experience.
+The Flood Estimation Handbook (FEH) (Reed et al., 1999) together with subsequent updates (e.g. Kjeldsen et al., 2008; Kjeldsen & Jones, 2009; Kjeldsen et al., 2014) represent best practice for flood estimation in the UK (e.g. Environment Agency, 2012).
+The FEH provides a range of methods for estimating the magnitude of flood events of a given exceedance probability.
+
+Hydrologists often rely on a mix of ad-hoc spreadsheets and commercial software which struggle to keep pace with current scientific literature.
+This mix of tools typically results in an inefficient work-flow using out of date methods.
+
+The recently founded Open Hydrology (OH) project provides a hydrological software framework.
+By adopting an open source model, OH encourages the sharing of ideas, a test bed for the latest scientific methods and the continued improvement of the user experience.
 
 
 ## What? [200 W]
