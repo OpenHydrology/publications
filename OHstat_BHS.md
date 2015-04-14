@@ -14,12 +14,18 @@ By adopting an open source model OH encourages the sharing of ideas, a test bed 
 
 ## What? [200 W]
 
-The OH project consists of collaborating academics and consultants who are developing open source software for hydrologists.
-Our goal is to develop a suite of packages that fulfil the needs of the hydrological community enabling us to use the latest published hydrological methods for modelling and statistics for both flood and low flow analysis.
-OH developers have already released the floodestimation library.
-The library provides a python implementation of the latest statistical **(ref)** flood estimation methods including pooled analysis, enhanced single site and transferring local gauged data.
-The floodestimation library is used in the OH Auto Statistical package to automatically create flood frequency reports by right clicking on a catchment descriptor file and choosing to run a report, making the process of generating a default flood frequency curve a matter of seconds rather than minutes.
-The floodestimation library downloads the latest Peak Flow Data (CEH, 2015) and allows the manual editing or addition of flow records.
+The OH project's vision is a thriving community of collaborating academics and consultants developing open source hydrological software.
+One of the goals is to develop a suite of applications and software libraries fulfilling the needs of the hydrological community, for example for hydrological modelling or statistical analysis of both flood and low flows.
+
+To date, a flood estimation statistical software library has been created by one of the OH contributors.
+The library provides a Python programming language implementation of the recent updates to the FEH statistical flood estimation methods.
+This library can be used for example in nationwide R&D studies or integrated in end-user software or web-based platforms.
+
+The *OH Auto Statistical* application was developed to demonstrate the capabilities of the flood estimation library.
+The software provides literally a single-click experience to generate FEH compliant flood estimation reports for any catchment in the UK.
+
+Behind the scenes, *OH Auto Statistical* automatically downloads National River Flow Archive (NRFA) data and selects the most appropriate methodology including "enhanced single site" and "pooling group" analyses.
+*OH Auto Statistical* is the only software currently available that implements a peer-reviewed median annual flood estimation (QMED) method using multiple donor catchments (Kjeldsen et al, 2014).
 
 
 ## Ethos [100 W]
