@@ -18,7 +18,7 @@ By adopting an open source model, OH encourages the sharing of ideas, a test bed
 The OH project consists of collaborating academics and consultants who are developing open source software for hydrologists.
 Our goal is to develop a suite of packages that fulfil the needs of the hydrological community enabling us to use the latest published hydrological methods for modelling and statistics for both flood and low flow analysis.
 OH developers have already released the floodestimation library.
-The library provides a python implementation of the latest statistical **(ref)** flood estimation methods including pooled analysis, enhanced single site and transferring local gauged data.
+This library provides a python implementation of the latest statistical **(eg ref)** flood estimation methods including pooled analysis, enhanced single site and transferring local gauged data.
 The floodestimation library is used in the OH Auto Statistical package to automatically create flood frequency reports by right clicking on a catchment descriptor file and choosing to run a report, making the process of generating a default flood frequency curve a matter of seconds rather than minutes.
 The floodestimation library downloads the latest Peak Flow Data (CEH, 2015) and allows the manual editing or addition of flow records.
 
