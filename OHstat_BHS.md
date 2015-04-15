@@ -29,15 +29,6 @@ Behind the scenes, OH Auto Statistical automatically downloads National River Fl
 OH Auto Statistical is the only software currently available that implements a peer-reviewed median annual flood estimation (QMED) method using multiple donor catchments (Kjeldsen et al, 2014).
 
 
-## Ethos [100 W]
-
-Why do OH contributors choose to freely work on this project?
-Well, for the same reason as those behind other very successful open source software like Mozilla Firefox, OpenOffice, Linux, GIMP and QGIS; to get a tool that works in the way they want.
-OH is software for hydrologists, developed by the hydrological community.
-This software development model provides a sustainable framework for the continued development of tools in conjunction with knowledge and access.
-In return, developers are able to promote their technical capabilities, provide commercial training and software technical support services, provide additional services to their clients and perhaps, most importantly, get the hydrological tool they really want.
-
-
 ## What next? [100 W]
 
 We're currently working on a graphical user interface for the floodestimation library, for use in more complex analysis than OH Auto Statistical allows.
