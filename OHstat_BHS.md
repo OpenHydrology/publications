@@ -15,7 +15,7 @@ By adopting an open source model, OH encourages the sharing of ideas, a test bed
 
 The OH project's vision is a thriving community of collaborating academics and consultants developing open source hydrological software.
 One of the goals is to develop a suite of applications and software libraries fulfilling the needs of the hydrological community, for example for hydrological modelling or statistical analysis of both flood and low flows.
-To date, a flood estimation statistical software library has been created by a small number of OH contributors.
+To date, a flood estimation statistical software library has been created for OH.
 This library provides a Python programming language implementation of the recent updates (eg Kjeldsen et al, 2014) to the FEH statistical flood estimation methods.
 This library can be used for example in nationwide R&D studies or integrated in end-user software or web-based platforms.
 The OH Auto Statistical application was developed to demonstrate the capabilities of the flood estimation library.
@@ -35,12 +35,12 @@ In return, developers are able to promote their technical capabilities, provide 
 
 ## What next? [100 W]
 
-Contributors are currently working on a graphical user interface for the floodestimation library, for use in more complex analysis than OH Auto Statistical allows.
+OH contributors are currently working on a graphical user interface for the floodestimation library, for use in more complex analysis than OH Auto Statistical allows.
 OH contributors have a broad range of development plans covering rainfall-runoff, low flow analysis and tools to support hydraulic modelling, however the beauty of OH is that it provides a means for hydrologists to become developers and create the software they need to solve the challenges they face.
 
 OH is already a success; it has a two click package to undertake an FEH statistical analysis.
 What OH needs are more hydrologists testing and using the software and requests for additional features and tools.
-The Auto Statistical package is already in use on commercial projects, the OH community is keen for the wider hydrological industry to become involved in OH; to make it better for all of us.
+The Auto Statistical package is already in use on commercial projects, we are keen for the hydrological community to become involved in OH; to make it better for all of us.
 If you also have time and skill to spare please dip into the source code and help out with writing.
 The best way to find out more and try it out is by going to the the OH website [open-hydrology.org](open-hydrology.org) where you can find links to the latest software release, the project's LinkedIn, Wiki and GitHub (source code) repository.
 
