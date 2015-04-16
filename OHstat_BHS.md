@@ -40,7 +40,7 @@ OH contributors have a broad range of development plans covering rainfall-runoff
 
 OH is already a success; it has a package to undertake rapid FEH statistical analyses.
 What OH needs are more hydrologists testing and using the software and requests for additional features and tools.
-The OH Auto Statistical package is already in use on commercial projects, we are keen for the hydrological community to become involved in OH; to make it better for all of us.
+The OH Auto Statistical package is already in use on real-life projects, we are keen for the hydrological community to become involved in OH; to make it better for all of us.
 If you also have time and skill to spare please dip into the source code and help out with writing.
 The best way to find out more and try it out is by going to the the OH website [open-hydrology.org](http://open-hydrology.org) where you can find links to the latest software release, the project's LinkedIn, Wiki and GitHub (source code) repository.
 
