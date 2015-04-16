@@ -21,7 +21,6 @@ This library can be used for example in nationwide R&D studies or integrated in 
 The OH Auto Statistical application was developed to demonstrate the capabilities of the flood estimation library.
 The software provides a single-click experience to generate FEH compliant flood estimation reports for any catchment in the UK.
 Behind the scenes, OH Auto Statistical automatically downloads National River Flow Archive (NRFA) data (CEH, 2015) and selects the most appropriate methodology including "enhanced single site" and "pooling group" analyses.
-OH Auto Statistical is the only software currently available that implements a peer-reviewed median annual flood estimation (QMED) method using multiple donor catchments (Kjeldsen et al, 2014).
 
 
 ## Ethos [100 W]
