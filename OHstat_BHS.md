@@ -32,7 +32,7 @@ The OH Auto Statistical package is already in use on real-life projects, we are 
 If you also have time and skill to spare please dip into the source code and help out with writing.
 The best way to find out more and try it out is by going to the the OH website [open-hydrology.org](http://open-hydrology.org) where you can find links to the latest software release, the project's LinkedIn, Wiki and GitHub (source code) repository.
 
-
+Florenz Hollebrandse (EnviroCentre), Michael Spencer (University of Edinburgh) and Neil Nutt
 
 ## References
 
