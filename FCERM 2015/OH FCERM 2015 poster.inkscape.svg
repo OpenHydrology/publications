@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="422.64708"
-     inkscape:cy="1475.7374"
+     inkscape:cx="1571.8809"
+     inkscape:cy="2634.1441"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,8 +37,9 @@
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     guidetolerance="10000"
-     objecttolerance="10000">
+     guidetolerance="10"
+     objecttolerance="10"
+     gridtolerance="10">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -46,7 +47,7 @@
        spacingx="70.866145"
        spacingy="70.86614"
        empspacing="11"
-       snapvisiblegridlinesonly="false"
+       snapvisiblegridlinesonly="true"
        originx="177.16536"
        originy="4039.37" />
     <sodipodi:guide
@@ -301,7 +302,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -373,7 +374,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000358px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Lato Bold';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1092.9353"
        y="-2699.3452"
        id="text4149-1"
@@ -381,13 +382,8 @@
          sodipodi:role="line"
          x="1092.9353"
          y="-2699.3452"
-         id="tspan4155-0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#2e3436;fill-opacity:1;">Research to practice through open-source software development</tspan><tspan
-         sodipodi:role="line"
-         x="1092.9353"
-         y="-2624.3452"
          id="tspan4157-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#2e3436;fill-opacity:1;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#2e3436;fill-opacity:1">From research to practice through open-source software</tspan></text>
     <g
        transform="matrix(3.3124273,0,0,3.3124273,1320.414,-6789.7348)"
        id="layer1-62"
@@ -403,93 +399,93 @@
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\gs1.jpeg"
        xlink:href="gs1.jpeg"
-       y="-2700"
-       x="1098.4253"
-       id="image4335"
-       preserveAspectRatio="none"
-       height="637.79529"
-       width="850.39374"
+       transform="translate(850.39372,2899.2018)"
        clip-path="url(#clipPath4351)"
-       transform="translate(850.39372,2899.2018)" />
+       width="850.39374"
+       height="637.79529"
+       preserveAspectRatio="none"
+       id="image4335"
+       x="1098.4253"
+       y="-2700" />
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\gs2.jpeg"
        xlink:href="gs2.jpeg"
-       y="-2629.134"
-       x="1948.819"
-       id="image4346"
-       preserveAspectRatio="none"
-       height="510.48441"
-       width="850.39374"
+       transform="translate(-850.39371,2899.2018)"
        clip-path="url(#clipPath4357)"
-       transform="translate(-850.39371,2899.2018)" />
+       width="850.39374"
+       height="510.48441"
+       preserveAspectRatio="none"
+       id="image4346"
+       x="1948.819"
+       y="-2629.134" />
     <text
        sodipodi:linespacing="125%"
        id="text3403"
-       y="-1778.9083"
+       y="-1360.5342"
        x="2017.4352"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#2e3436;fill-opacity:1"
          id="tspan3407"
-         y="-1778.9083"
+         y="-1360.5342"
          x="2017.4352"
          sodipodi:role="line">OH Auto Statistical</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="105.39922"
-       y="-2071.0303"
+       y="-2208.4111"
        id="text3411"
        sodipodi:linespacing="125%"><tspan
          id="tspan3415"
          sodipodi:role="line"
          x="105.39922"
-         y="-2071.0303"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;fill-opacity:1;">TL;DR</tspan></text>
+         y="-2208.4111"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;fill-opacity:1">TL;DR</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1098.4253"
-       y="-1778.1599"
+       y="-1359.7858"
        id="text3419"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="1098.4253"
-         y="-1778.1599"
+         y="-1359.7858"
          id="tspan3421"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';fill:#2e3436;fill-opacity:1">lmoments3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000358px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2016.0251"
-       y="-1851.7378"
+       y="-1433.3636"
        id="text3423"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="2016.0251"
-         y="-1851.7378"
+         y="-1433.3636"
          id="tspan3425"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000358px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1;">For practitioners:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1">For practitioners:</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3427"
-       y="-1851.7379"
+       y="-1433.3638"
        x="1094.7653"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000358px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000358px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
          id="tspan3429"
-         y="-1851.7379"
+         y="-1433.3638"
          x="1094.7653"
          sodipodi:role="line">For researchers:</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3431"
-       d="m 1665.3543,-1821.6048 283.4646,0"
+       d="m 1665.3543,-1403.2306 283.4646,0"
        style="fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:7.08661461;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5365)" />
     <g
        id="g5471"
-       transform="translate(0,-70.864452)">
+       transform="translate(0,347.50975)">
       <rect
          style="fill:none;fill-opacity:1;stroke:#2e3436;stroke-width:1.77165365;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
          id="rect5465"
@@ -509,7 +505,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(921.25915,-68.844146)"
+       transform="translate(921.25915,349.53005)"
        id="g5476">
       <rect
          y="-1637.0081"
@@ -530,7 +526,7 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99880695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(2.175578,0,0,1.1402715,-1291.4979,1360.5821)"
+       transform="matrix(2.175578,0,0,1.1402715,749.01036,1397.7103)"
        id="g5484">
       <rect
          y="-1637.0081"
@@ -549,27 +545,6 @@
          id="path5490"
          d="m 1098.6934,-1636.1652 778.9913,495.2206"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63414723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g5834"
-       transform="translate(921.25915,-925.68888)">
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#2e3436;stroke-width:1.77165365;stroke-linecap:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5836"
-         width="779.52753"
-         height="496.06299"
-         x="1100.1969"
-         y="-1637.0081" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1098.6937,-1140.9451 779.5275,-496.063"
-         id="path5838"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99880695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1098.6934,-1636.1652 778.9913,495.2206"
-         id="path5840"
-         inkscape:connector-curvature="0" />
     </g>
     <text
        sodipodi:linespacing="125%"
@@ -811,10 +786,10 @@
            width="781.99286"
            id="rect4389"
            style="fill:#eeeeec;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.8751297px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.8751297px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;line-height:133%"
          id="flowPara4395">Quisque vehicula porttitor odio. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec sit amet enim. Nullam sapien mauris, venenatis at, fermentum at, tempus eu, urna. Phasellus auctor enim eget sem. Curabitur accumsan felis in erat. Nulla blandit justo a metus. Nunc in turpis ac lacus eleifend sagittis. Integer risus velit, facilisis eget, viverra et, venenatis id, leo. </flowPara></flowRoot>    <flowRoot
-       transform="translate(1.2113228,-2365.6565)"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1.2113228,-1924.4252)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4409"
        xml:space="preserve"><flowRegion
          id="flowRegion4411"><rect
@@ -823,15 +798,15 @@
            height="507.6351"
            width="797.71204"
            id="rect4413"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara4415">Etiam sodales orci nec ligula. Suspendisse fermentum. Aliquam sed erat. Pellentesque sit amet dui vel justo gravida auctor. </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara4419" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara4417">Etiam sodales orci nec ligula. Suspendisse fermentum. Aliquam sed erat. Pellentesque sit amet dui vel justo gravida auctor. </flowPara></flowRoot>    <flowRoot
-       transform="translate(416.18311,-2112.2452)"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato"
+       transform="translate(416.18311,-1671.0139)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato;display:inline"
        id="flowRoot4421"
        xml:space="preserve"><flowRegion
          id="flowRegion4423"><rect
@@ -840,19 +815,19 @@
            height="571.90045"
            x="1603.3784"
            y="978.02362"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato" /></flowRegion><flowPara
          id="flowPara4427"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Curabitur risus urna, placerat et, luctus pulvinar, auctor vel, orci. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Curabitur risus urna, placerat et, luctus pulvinar, auctor vel, orci. </flowPara><flowPara
          id="flowPara4429"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato" /><flowPara
          id="flowPara4431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato">Aliquam metus. Nunc metus. Aliquam imperdiet lobortis metus. Nam molestie nisl at metus. Aenean scelerisque metus eget sem. Aenean turpis ipsum, rhoncus vitae, posuere vitae, euismod sed, ligula. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato">Aliquam metus. Nunc metus. Aliquam imperdiet lobortis metus. Nam molestie nisl at metus. Aenean scelerisque metus eget sem. Aenean turpis ipsum, rhoncus vitae, posuere vitae, euismod sed, ligula. </flowPara><flowPara
          id="flowPara4433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato" /><flowPara
          id="flowPara4435"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato" /></flowRoot>    <flowRoot
-       transform="matrix(1.0212634,0,0,1,17.578956,-3122.5845)"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.01556017px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr;text-anchor:start;fill:#eeeeec;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:133.00000429%;font-family:Lato;-inkscape-font-specification:Lato" /></flowRoot>    <flowRoot
+       transform="matrix(1.0212634,0,0,1,17.578956,-3259.9653)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.01556015px;line-height:133%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#eeeeec;"
        id="flowRoot5492"
        xml:space="preserve"><flowRegion
          id="flowRegion5494"><rect
@@ -861,7 +836,7 @@
            height="475.03333"
            x="86.873497"
            y="1146.7777"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.01556017px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr;text-anchor:start;fill:#eeeeec;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.01556015px;line-height:133%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;" /></flowRegion><flowPara
          id="flowPara4383">- Open Hydrology is cutting edge!</flowPara><flowPara
          id="flowPara4385">- It's for/by academia and practitioners.</flowPara><flowPara
          id="flowPara4387">- Researchers ...</flowPara><flowPara
@@ -913,74 +888,99 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1292.7551"
-       y="-1447.6769"
+       y="-1029.3027"
        id="text4398"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="1292.7551"
-         y="-1447.6769"
+         y="-1029.3027"
          id="tspan4400"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1">Image of Python code</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4402"
-       y="-1443.6362"
+       y="-1025.2621"
        x="2323.1108"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
          id="tspan4404"
-         y="-1443.6362"
+         y="-1025.2621"
          x="2323.1108"
          sodipodi:role="line">Screenshot</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2129.1616"
-       y="-2372.9766"
-       id="text4406"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2129.1616"
-         y="-2372.9766"
-         id="tspan4408"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1">github/openhydrology home page</tspan><tspan
-         sodipodi:role="line"
-         x="2129.1616"
-         y="-2322.9766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
-         id="tspan4410">or</tspan><tspan
-         sodipodi:role="line"
-         x="2129.1616"
-         y="-2272.9766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
-         id="tspan4412">UK map of GS with QMED errors</tspan><tspan
-         sodipodi:role="line"
-         x="2129.1616"
-         y="-2222.9766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
-         id="tspan4414">or</tspan><tspan
-         sodipodi:role="line"
-         x="2129.1616"
-         y="-2172.9766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
-         id="tspan4416">...</tspan></text>
-    <text
        sodipodi:linespacing="125%"
        id="text4418"
-       y="-247.61552"
-       x="1555.3949"
+       y="-210.48729"
+       x="3595.9031"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
          id="tspan4420"
-         y="-247.61552"
-         x="1555.3949"
+         y="-210.48729"
+         x="3595.9031"
          sodipodi:role="line">Diagram of all compents: NRFA, libraries, db, FEH-CD, </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;font-family:Lato;-inkscape-font-specification:Lato;fill:#2e3436;fill-opacity:1"
-         y="-197.61552"
-         x="1555.3949"
+         y="-160.48729"
+         x="3595.9031"
          sodipodi:role="line"
          id="tspan4422">user interface, potential links with GIS, R, ...</tspan></text>
+    <image
+       sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\qrcode.png"
+       xlink:href="qrcode.png"
+       style="fill:#a40000"
+       width="354.33069"
+       height="354.33072"
+       preserveAspectRatio="none"
+       id="image3520"
+       x="2490.8821"
+       y="-1938.8414" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3523"
+       y="-1787.6641"
+       x="1038.9879"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00000763px;line-height:125%;font-family:'roboto slab';-inkscape-font-specification:'roboto slab';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120.00000763px;font-family:'roboto slab';-inkscape-font-specification:'roboto slab Bold';fill:#2e3436;fill-opacity:1"
+         y="-1787.6641"
+         x="1038.9879"
+         id="tspan3525"
+         sodipodi:role="line">“Talk is cheap. Show me</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120.00000763px;font-family:'roboto slab';-inkscape-font-specification:'roboto slab Bold';fill:#2e3436;fill-opacity:1"
+         y="-1637.6641"
+         x="1038.9879"
+         sodipodi:role="line"
+         id="tspan3527">  the code.”</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3529"
+       y="-1640.1224"
+       x="1737.5256"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#2e3436;fill-opacity:1"
+         id="tspan3533"
+         y="-1640.1224"
+         x="1737.5256"
+         sodipodi:role="line">Linus Torvalds</tspan></text>
+    <image
+       sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\github.png"
+       xlink:href="github.png"
+       width="601.62427"
+       height="354.33084"
+       preserveAspectRatio="none"
+       id="image3549"
+       x="2019.6851"
+       y="-2561.8113" />
+    <image
+       sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\rtfd.png"
+       xlink:href="rtfd.png"
+       width="601.62427"
+       height="354.33084"
+       preserveAspectRatio="none"
+       id="image3560"
+       x="2197.5884"
+       y="-2420.0789" />
   </g>
 </svg>
