@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="926.25563"
-     inkscape:cy="2909.4093"
+     inkscape:zoom="0.35"
+     inkscape:cx="437.92039"
+     inkscape:cy="609.96362"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1304"
@@ -1174,14 +1174,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="bg">
+     inkscape:label="bg"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:#2980b9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99547905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3346"
@@ -1268,25 +1270,25 @@
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\gs1.jpeg"
        xlink:href="gs1.jpeg"
-       transform="translate(850.39372,2939.2018)"
-       clip-path="url(#clipPath4351)"
-       width="850.39374"
-       height="637.79529"
-       preserveAspectRatio="none"
-       id="image4335"
+       y="-2700"
        x="1098.4253"
-       y="-2700" />
+       id="image4335"
+       preserveAspectRatio="none"
+       height="637.79529"
+       width="850.39374"
+       clip-path="url(#clipPath4351)"
+       transform="translate(850.39372,2939.2018)" />
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\gs2.jpeg"
        xlink:href="gs2.jpeg"
-       transform="translate(-850.39371,2939.2018)"
-       clip-path="url(#clipPath4357)"
-       width="850.39374"
-       height="510.48441"
-       preserveAspectRatio="none"
-       id="image4346"
+       y="-2629.134"
        x="1948.819"
-       y="-2629.134" />
+       id="image4346"
+       preserveAspectRatio="none"
+       height="510.48441"
+       width="850.39374"
+       clip-path="url(#clipPath4357)"
+       transform="translate(-850.39371,2939.2018)" />
     <text
        sodipodi:linespacing="125%"
        id="text3403"
@@ -1310,7 +1312,7 @@
          sodipodi:role="line"
          x="103.97066"
          y="-2191.2683"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;fill-opacity:1">TL;DR</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;fill-opacity:1">Summary</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1390,38 +1392,38 @@
     <text
        sodipodi:linespacing="142%"
        id="text5854"
-       y="452.25305"
+       y="460.25305"
        x="176.24661"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50000381px;line-height:141.99999571%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50000381px;line-height:214.00001049%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
-         y="452.25305"
+         y="460.25305"
          x="176.24661"
          sodipodi:role="line"
          id="tspan5856">open-hydrology.org</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50000381px;line-height:214.00001049%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
-         y="532.50305"
+         y="540.50305"
          x="176.24661"
          sodipodi:role="line"
          id="tspan5858">info@open-hydrology.org</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50000381px;line-height:214.00001049%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
-         y="612.75305"
+         y="620.75305"
          x="176.24661"
          sodipodi:role="line"
          id="tspan5860">@OpenHydrology</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50000381px;line-height:214.00001049%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
-         y="693.00311"
+         y="701.00311"
          x="176.24661"
          sodipodi:role="line"
          id="tspan5862">github.com/OpenHydrology</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50000381px;line-height:214.00001049%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
-         y="773.25311"
+         y="781.25311"
          x="176.24661"
          sodipodi:role="line"
          id="tspan5864">docs.open-hydrology.org</tspan></text>
     <g
        id="g5867"
-       transform="matrix(2.1232242,0,0,2.1232242,105.5252,418.38091)"
+       transform="matrix(2.1232242,0,0,2.1232242,105.5252,428.38091)"
        style="fill:#eeeeec">
       <path
          id="path5869"
@@ -1441,7 +1443,7 @@
     </g>
     <g
        id="g5886"
-       transform="matrix(1.9327131,0,0,1.9327131,105.5252,655.13301)"
+       transform="matrix(1.9327131,0,0,1.9327131,105.5252,665.13301)"
        style="fill:#eeeeec">
       <path
          id="path5888"
@@ -1473,12 +1475,12 @@
     </g>
     <path
        id="path5911"
-       d="m 136.27594,584.32536 c -6.17096,1.22616 -5.73122,6.24758 -10.69242,8.35869 -2.19688,0.9324 -7.25844,1.49621 -7.80948,1.23529 -3.36099,-1.58014 -8.30395,-5.53232 -8.30395,-5.53232 0,0 0.44156,3.21867 2.16402,5.9976 -4.02699,-0.95246 -6.10891,-3.01249 -6.10891,-3.01249 0,0 2.66764,23.24232 20.87576,22.12016 13.85635,-0.8521 13.02978,-13.11554 15.29964,-16.68454 2.2662,-3.56353 6.34429,-2.82455 6.34429,-2.82455 0,0 -2.49429,-11.49708 -11.76895,-9.65784 z m 3.24239,6.99204 c -0.84664,0 -1.53088,-0.68607 -1.53088,-1.53088 0,-0.84481 0.68424,-1.53088 1.53088,-1.53088 0.84298,0 1.52905,0.68789 1.52905,1.53088 0,0.84299 -0.68425,1.53088 -1.52905,1.53088 z"
+       d="m 136.27594,594.32536 c -6.17096,1.22616 -5.73122,6.24758 -10.69242,8.35869 -2.19688,0.9324 -7.25844,1.49621 -7.80948,1.23529 -3.36099,-1.58014 -8.30395,-5.53232 -8.30395,-5.53232 0,0 0.44156,3.21867 2.16402,5.9976 -4.02699,-0.95246 -6.10891,-3.01249 -6.10891,-3.01249 0,0 2.66764,23.24232 20.87576,22.12016 13.85635,-0.8521 13.02978,-13.11554 15.29964,-16.68454 2.2662,-3.56353 6.34429,-2.82455 6.34429,-2.82455 0,0 -2.49429,-11.49708 -11.76895,-9.65784 z m 3.24239,6.99204 c -0.84664,0 -1.53088,-0.68607 -1.53088,-1.53088 0,-0.84481 0.68424,-1.53088 1.53088,-1.53088 0.84298,0 1.52905,0.68789 1.52905,1.53088 0,0.84299 -0.68425,1.53088 -1.52905,1.53088 z"
        inkscape:connector-curvature="0"
        style="fill:#eeeeec" />
     <g
        id="g5921"
-       transform="matrix(1.8244878,0,0,1.8244878,105.5252,503.72698)"
+       transform="matrix(1.8244878,0,0,1.8244878,105.5252,513.72698)"
        style="fill:#eeeeec">
       <path
          id="path5923"
@@ -1488,7 +1490,7 @@
     </g>
     <g
        id="g5934"
-       transform="matrix(2.0445106,0,0,2.0445106,105.5252,738.8907)"
+       transform="matrix(2.0445106,0,0,2.0445106,105.5252,748.8907)"
        style="fill:#eeeeec">
       <path
          id="path5936"
@@ -1682,13 +1684,13 @@
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\qrcode.png"
        xlink:href="qrcode.png"
-       style="fill:#a40000"
-       width="354.33069"
-       height="354.33072"
-       preserveAspectRatio="none"
-       id="image3520"
+       y="-1898.8414"
        x="2490.8821"
-       y="-1898.8414" />
+       id="image3520"
+       preserveAspectRatio="none"
+       height="354.33072"
+       width="354.33069"
+       style="fill:#a40000" />
     <text
        sodipodi:linespacing="130%"
        id="text3523"
@@ -1721,21 +1723,21 @@
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\github.png"
        xlink:href="github.png"
-       width="496.06311"
-       height="292.15985"
-       preserveAspectRatio="none"
-       id="image3549"
+       y="-2561.8113"
        x="2019.6851"
-       y="-2561.8113" />
+       id="image3549"
+       preserveAspectRatio="none"
+       height="292.15985"
+       width="496.06311" />
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\rtfd.png"
        xlink:href="rtfd.png"
-       width="601.62427"
-       height="354.33084"
-       preserveAspectRatio="none"
-       id="image3560"
+       y="-2436.646"
        x="2197.5884"
-       y="-2436.646" />
+       id="image3560"
+       preserveAspectRatio="none"
+       height="354.33084"
+       width="601.62427" />
     <g
        id="g5050"
        transform="translate(-4.3423832,-29.816837)">
@@ -2133,7 +2135,7 @@
          x="1100.8262"
          y="-700.19598"
          id="tspan5119"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.00000191px;line-height:141.99999571%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#000000;fill-opacity:1">Figure 2: Integration of data, libraries and end-user software</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.00000268px;line-height:141.99999571%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#000000;fill-opacity:1">Figure 2: Integration of data, libraries and end-user software</tspan></text>
     <text
        sodipodi:linespacing="142%"
        id="text5123"
@@ -2146,5 +2148,48 @@
          y="-2031.4785"
          x="2020.149"
          sodipodi:role="line">Figure 1: Collaboration and documentation websites</tspan></text>
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.93208"
+       y="-489.27533"
+       id="text5127"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5129"
+         sodipodi:role="line"
+         x="102.93208"
+         y="-489.27533"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#eeeeec;fill-opacity:1">References</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5131"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.83378601px;line-height:134.00000334%;font-family:lato;-inkscape-font-specification:'lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.0115384,0,0,1.0052324,-1936.5839,-1007.6021)"><flowRegion
+         id="flowRegion5133"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.83378601px;line-height:134.00000334%;font-family:lato;-inkscape-font-specification:'lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec"
+           id="rect5135"
+           width="781.99286"
+           height="853.08301"
+           x="2019.6887"
+           y="599.83337" /></flowRegion><flowPara
+         id="flowPara5155">CEH, 2015, <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:lato;-inkscape-font-specification:'lato Bold Italic'"
+   id="flowSpan5175">Peak Flow Data Overview</flowSpan>, http://www.ceh.ac.uk/data/nrfa/peakflow_overview.html, accessed 2015-04-12.</flowPara><flowPara
+         id="flowPara5157" /><flowPara
+         id="flowPara5159">Kjeldsen, T., Jones, D., Bayliss, A., Spencer, P., Surendran, S., Stefan, L., Webster, P., &amp; McDonald, D., 2008, <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:lato;-inkscape-font-specification:'lato Bold Italic'"
+   id="flowSpan3704">Improving the FEH statistical method</flowSpan>, In: Flood &amp; Coastal Management Conference 2008, University of Manchester, 1-3 July 2008. Environment Agency/Defra.</flowPara><flowPara
+         id="flowPara5161" /><flowPara
+         id="flowPara5163">Kjeldsen, T. R., &amp; Jones, D. A., 2009, <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:lato;-inkscape-font-specification:'lato Bold Italic'"
+   id="flowSpan3706">An exploratory analysis of error components in hydrological regression modeling</flowSpan>, Water Resources Research, 45(2).</flowPara><flowPara
+         id="flowPara5165" /><flowPara
+         id="flowPara5167">Kjeldsen, T. R., Jones, D.A., &amp; Morris, D.G., 2014, <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:lato;-inkscape-font-specification:'lato Bold Italic'"
+   id="flowSpan3708">Using multiple donor sites for enhanced flood estimation in ungauged catchments</flowSpan>, Water Resources Research, 50(8): 6646-6657.</flowPara><flowPara
+         id="flowPara5169" /><flowPara
+         id="flowPara5171">Reed, D., Faulkner, D., Robson, A., Houghton-Carr, H., &amp; Bayliss, A., 1999, <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:lato;-inkscape-font-specification:'lato Bold Italic'"
+   id="flowSpan3710">Flood Estimation Handbook</flowSpan>, Wallingford: Institute of Hydrology.</flowPara><flowPara
+         id="flowPara5173" /></flowRoot>  </g>
 </svg>
