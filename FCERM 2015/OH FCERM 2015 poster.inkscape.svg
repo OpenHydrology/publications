@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1833.6509"
-     inkscape:cy="2366.8066"
+     inkscape:cx="926.25563"
+     inkscape:cy="2909.4093"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -61,7 +61,7 @@
        orientation="1,0"
        id="guide3340" />
     <sodipodi:guide
-       position="2303.1497,4035.8267"
+       position="1381.8898,4039.37"
        orientation="0,1"
        id="guide3342" />
     <sodipodi:guide
@@ -1206,13 +1206,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.00000763px;line-height:125%;font-family:'roboto slab';-inkscape-font-specification:'roboto slab';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1093.1909"
-       y="-2839.4641"
+       y="-2827.4641"
        id="text4148"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4150"
          x="1093.1909"
-         y="-2839.4641"
+         y="-2827.4641"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:160.00001526px;font-family:'roboto slab';-inkscape-font-specification:'roboto slab Bold';fill:#2e3436;fill-opacity:1">Open Hydrology</tspan></text>
     <text
        xml:space="preserve"
@@ -1244,26 +1244,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Bold';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1092.9353"
-       y="-2699.3452"
+       x="1093.5952"
+       y="-2721.3452"
        id="text4149-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1092.9353"
-         y="-2699.3452"
+         x="1093.5952"
+         y="-2721.3452"
          id="tspan4157-7"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#2e3436;fill-opacity:1">From research to practice through open-source software</tspan></text>
     <g
-       transform="matrix(3.3124273,0,0,3.3124273,1320.414,-6789.7348)"
+       transform="matrix(3.6452517,0,0,3.6534118,1439.7226,-7170.186)"
        id="layer1-62"
        inkscape:label="Layer 1"
-       style="fill:#eeeeec;stroke:#eeeeec">
+       style="fill:#eeeeec;stroke:#eeeeec;stroke-width:0.90768558">
       <path
          sodipodi:nodetypes="ssssssssssssssssssssssssssccssszssscsssssszs"
          inkscape:connector-curvature="0"
          id="path3000-2"
          d="m -365.31369,1183.5744 c 0.79032,-1.6001 8.92025,-10.5408 11.85866,-16.4197 2.49807,-4.998 3.98626,-8.7326 6.38543,-8.9396 4.00067,-0.3453 8.0274,2.3717 11.49378,6.5678 3.46638,4.1962 9.48693,12.0411 13.31819,12.0411 3.83126,0 4.74346,-2.7366 9.12205,-7.48 4.37858,-4.7435 8.57472,-11.6763 11.67622,-11.4938 3.10149,0.1824 7.29763,3.4664 9.85181,6.3854 2.55417,2.9191 9.48693,12.7709 12.9533,12.9533 3.46639,0.1825 8.45489,-6.4577 10.03426,-8.9396 2.55417,-4.0137 4.0137,-7.1152 8.0274,-8.2098 4.0137,-1.0947 5.49581,-0.4928 7.48008,1.0946 2.73662,2.1893 9.12205,10.764 11.12889,12.7709 2.00686,2.0068 6.20299,7.4801 8.93961,7.4801 2.73661,0 6.38544,-5.4733 10.21669,-10.7641 3.25439,-4.4941 6.35537,-7.6385 8.57473,-7.6625 2.98342,-0.032 7.54958,4.7087 9.48694,7.845 1.94143,3.1428 7.66251,10.2167 10.94644,10.3991 4.55764,0.2532 11.67622,-10.2167 14.23039,-13.1357 2.55418,-2.9191 5.11154,-6.5036 7.29765,-6.3855 3.37514,0.1825 19.95347,24.7087 19.88605,25.7242 -0.085,1.2807 -3.53038,4.3894 -4.37858,4.561 -0.92851,0.1879 -2.44813,-0.6263 -3.83125,-2.3717 -3.83127,-4.8347 -9.28877,-15.6803 -12.40599,-16.0548 -1.90425,-0.2288 -14.41283,14.5041 -16.78458,16.6021 -1.40686,1.2446 -4.561,1.4596 -6.56786,0.9122 -2.00686,-0.5473 -5.56445,-3.2839 -7.38886,-5.6556 -2.26018,-2.7724 -8.46305,-11.7813 -9.76059,-11.8587 -2.46294,0.091 -13.50062,14.2304 -15.87236,15.5075 -2.37173,1.2771 -5.10834,1.4595 -7.29764,0.5473 -2.18929,-0.9122 -9.2545,-10.2974 -12.58842,-14.7777 -3.27597,-4.4024 -6.04346,-7.3404 -9.30448,-6.5679 -3.26104,0.7725 -17.87922,19.5212 -20.98072,19.7036 -3.1015,0.1825 -7.29764,-4.561 -10.21669,-8.2098 -2.91906,-3.6488 -8.67485,-12.7741 -10.03426,-12.2235 -1.00851,0.4084 -10.94645,12.2235 -10.94645,12.2235 0,0 -4.92591,5.2908 -8.93961,6.5679 -4.0137,1.2771 -6.93275,-1.8244 -8.57472,-2.7366 -1.64197,-0.9123 -10.39913,-11.1289 -11.49378,-12.2236 -1.09464,-1.0946 -3.28394,-4.3786 -4.9259,-4.3786 -1.64197,0 -4.01371,2.5542 -5.65567,5.2908 -1.64197,2.7366 -5.65567,9.3045 -7.29764,10.9465 -1.64197,1.6419 -4.1906,4.2172 -4.56102,4.0137 -0.37043,-0.2036 -3.44091,-2.9617 -3.1015,-3.6488 z"
-         style="fill:#eeeeec;fill-opacity:1;stroke:#eeeeec;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#eeeeec;fill-opacity:1;stroke:#eeeeec;stroke-width:0.90768558;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <image
        sodipodi:absref="C:\Users\fhollebrandse\PycharmProjects\publications\FCERM 2015\gs1.jpeg"
